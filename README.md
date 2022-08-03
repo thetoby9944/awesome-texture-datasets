@@ -9,7 +9,7 @@ This document targets people interested in (pre-)training deep neural networks f
 A texture is a repeating pattern. Patterns can occur in regular, near-regular, irregular, near-stochastic, and stochastic forms. For reference, see visualized examples in the case of 2D color images (see Fig. 1)
 
 
-![](images/image1.png)
+![](images/image14.png)
 
 Figure 1: Texture types
 
@@ -38,7 +38,7 @@ Each section contains a list of datasets described by example image(s), abbrevia
 
 ## CytoImageNet
 
-![](images/image2.png)
+![](images/image7.png)
 
 Large Scale Pretraining for microscopy data
 
@@ -50,7 +50,7 @@ Large Scale Pretraining for microscopy data
 
 ## DTD - Describable Textures Dataset
 
-![](images/image3.png)
+![](images/image2.png)
 
 5640 images, 47 classes
 
@@ -59,7 +59,7 @@ Large Scale Pretraining for microscopy data
 
 
 ## The Textures Dataset
-![](images/image4.png)
+![](images/image12.png)
 
 8400 images, 64 classes
 
@@ -67,7 +67,7 @@ Large Scale Pretraining for microscopy data
 
 ## TEM nanowire morphologies
 
-![](images/image5.png)
+![](images/image13.png)
 
 400 images, 4 Classes
 
@@ -84,7 +84,7 @@ Large Scale Pretraining for microscopy data
 
 ## ALOT - Amsterdam Library of Textures
 
-![](images/image7.png)
+![](images/image3.png)
 
 27000 images, 250 Classes (Materials)
 
@@ -95,7 +95,7 @@ Large Scale Pretraining for microscopy data
 
 ## DAGM Defect detection
 
-![](images/image8.png)
+![](images/image1.png)
 
 Artificial Stochastic Textures
 
@@ -119,7 +119,7 @@ Defect detection kaggle challenge
 
 ## KOLEKTOR SSD / KOLEKTOR SSD 2
 
-![](images/image10.png)
+![](images/image5.png)
 
 Fine annotations + Box annotations
 
@@ -145,7 +145,7 @@ Parts of the MVTEC Dataset
 
 ## Surface Crack Detection
 
-![](images/image12.png)
+![](images/image8.png)
 
 Kaggle challenge for civil engineering
 
@@ -159,7 +159,7 @@ Kaggle challenge for civil engineering
 
 ## PASTIS
 
-![](images/image13.png)
+![](images/image4.png)
 
 Panoptic segmentation of satellite time series
 
@@ -169,7 +169,7 @@ Panoptic segmentation of satellite time series
 
 ## SkyScapes
 
-![](images/image14.png)
+![](images/image10.png)
 
 70 000 images / very fine annotations
 
