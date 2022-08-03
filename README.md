@@ -9,7 +9,7 @@ This document targets people interested in (pre-)training deep neural networks f
 A texture is a repeating pattern. Patterns can occur in regular, near-regular, irregular, near-stochastic, and stochastic forms. For reference, see visualized examples in the case of 2D color images (see Fig. 1)
 
 
-![](images/image14.png)
+![](images/image14.jpg)
 
 Figure 1: Texture types
 
