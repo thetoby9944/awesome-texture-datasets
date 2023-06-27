@@ -1,4 +1,4 @@
-# Awesome Texture Datasets - Curated List of Texture Datasets
+# Awesome Texture Datasets - Curated List of Texture Datasets (<2023)
 
 ## Introduction
 
