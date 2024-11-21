@@ -11,7 +11,8 @@ A texture is a repeating pattern. Patterns can occur in regular, near-regular, i
 
 ![](images/image14.jpg)
 
-Figure 1: Texture types
+Figure 1: Texture types [1]
+
 
 ## Relevance
 
@@ -194,3 +195,9 @@ The sources of the datasets are microscopy (4), macroscopy (5), artificial (1), 
 ## Outlook
 
 Currently, only one texture dataset is of artificial nature, and it was created with a fairly simple image processing algorithm in 2001. Generating artificial texture data needs more focus. A good texture generator that includes variables for granularity, randomness, and probably some deep features derived from existing datasets could provide an infinite source of textures. Research in the field of style transfer and inpainting has shown that models today are capable of learning abstract texture information [citation missing]. Yet, currently (JUL 22) it is hard to find any generated texture datasets. Generated textures could fill the gap in currently missing open source datasets.
+
+
+## Other references
+
+[1] A Comparison Study of Four Texture Synthesis Algorithms on Regular and Near-regular Textures - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/A-texture-spectrum-on-which-textures-are-arranged-according-to-their-structural_fig1_228393053 [accessed 21 Nov 2024]
+
